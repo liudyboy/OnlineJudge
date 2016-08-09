@@ -8,3 +8,5 @@
 并且 由 cos<CAE = AE / AC , 可求得 <CAE, <BAD  的大小</br>
 由向量AB 和 向量AC 可求得 <BAC 的大小</br>
 所以 <DAE = <BAC - <BAD - <EAC ; 知道<DAE 便可求出弧长ED;</br>
+
+#h1

@@ -6,7 +6,8 @@
 由图可知所需求的长度为 CE + 弧ED + DB 的长度</br>
 我们知 三角形 ADB, ACE 都为直角三角形,并且 由两点的距离公式可知道 AC, AB 长度, 所以由勾股定理可求得CE, DB;</br>
 并且 由 cos<CAE = AE / AC , 可求得 <CAE, <BAD  的大小</br>
-由向量AB 和 向量AC 可求得 <BAC 的大小</br>
-所以 <DAE = <BAC - <BAD - <EAC ; 知道<DAE 便可求出弧长ED;</br>
+由向量AB 和 向量AC 可求得 <BAC 的大小 </br>
+所以 <DAE = <BAC - <BAD - <EAC ; 知道<DAE 便可求出弧长ED;
+</br>
 
-#h1
+
